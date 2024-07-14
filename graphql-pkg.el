@@ -1,2 +1,0 @@
-;; Generated package description from graphql.el  -*- no-byte-compile: t -*-
-(define-package "graphql" "0.1.2.0.20221202.2453" "GraphQL utilities" '((emacs "25")) :commit "67237f284f2dfb94f3cfba672ff64a37e1cb860f" :authors '(("Sean Allred" . "code@seanallred.com")) :maintainer '("Sean Allred" . "code@seanallred.com") :keywords '("hypermedia" "tools" "lisp") :url "https://github.com/vermiculus/graphql.el")
